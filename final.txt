@@ -1,0 +1,30 @@
+Machine Learning Exam
+1. Linear Regression
+Choosing a dataset , please do the following tasks:
+a) Plot the data 1p
+b) Compute Cost Function 1p
+c) Make a function that run gradient descent 1p
+d) Compute Cost Function for multivariate Linear Regression 1p
+e) Compute Cost for multivariate Gradient Descent 1p
+f) Do the feature normalization 1p
+g) Make a function that computes the normal equation. 1p
+2. Logistic Regression
+Choosing a dataset , please do the following tasks:
+a) Plot the data 1p
+b) Make code that computes sigmoid function 1p
+c) Compute the Logistic Regression Cost Function 1p
+d) Make a prediction for the test sample 1p
+e) Compute Regularized Cost Function 1p
+3. Neural Networks
+Choosing a dataset , please do the following tasks:
+a) Compute the gradient of the sigmoid function 4p
+b) Randomly initialize weights 4p
+c) Compute Neural network cost function 4p
+4. Kmeans
+Choosing a dataset , please do the following tasks:
+a) Plot the data 1p
+b) Initialize K means centroids 1p
+c) Find the closesr Centroids 1p
+d) Compute Centroids means 1p
+e) Run K means algorithm 1p
+f) Plot each step of Kmeans as it processds 1p
